@@ -1,0 +1,134 @@
+{
+  "generatedAt": 1774531452145,
+  "total": 16,
+  "items": [
+    {
+      "file": "anything-v5-PrtRE.safetensors",
+      "relativePath": "checkpoints/anything-v5-PrtRE.safetensors",
+      "kind": "generic",
+      "basename": "anything-v5-PrtRE",
+      "normalized": "anythingv5prtre",
+      "sorted": "5aeghinnprrttvy"
+    },
+    {
+      "file": "controlnet++_union_sdxl_promax.safetensors",
+      "relativePath": "controlnet/controlnet++_union_sdxl_promax.safetensors",
+      "kind": "generic",
+      "basename": "controlnet++_union_sdxl_promax",
+      "normalized": "controlnetunionsdxlpromax",
+      "sorted": "acdeillmnnnnooooprrsttuxx"
+    },
+    {
+      "file": "control_v11e_sd15_ip2p_fp16.safetensors",
+      "relativePath": "controlnet/control_v11e_sd15_ip2p_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11e_sd15_ip2p_fp16",
+      "normalized": "controlv11esd15ip2pfp16",
+      "sorted": "1111256cdefilnooppprstv"
+    },
+    {
+      "file": "control_v11e_sd15_shuffle_fp16.safetensors",
+      "relativePath": "controlnet/control_v11e_sd15_shuffle_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11e_sd15_shuffle_fp16",
+      "normalized": "controlv11esd15shufflefp16",
+      "sorted": "111156cdeefffhllnooprsstuv"
+    },
+    {
+      "file": "control_v11f1e_sd15_tile_fp16.safetensors",
+      "relativePath": "controlnet/control_v11f1e_sd15_tile_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11f1e_sd15_tile_fp16",
+      "normalized": "controlv11f1esd15tilefp16",
+      "sorted": "1111156cdeeffillnooprsttv"
+    },
+    {
+      "file": "control_v11f1p_sd15_depth_fp16.safetensors",
+      "relativePath": "controlnet/control_v11f1p_sd15_depth_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11f1p_sd15_depth_fp16",
+      "normalized": "controlv11f1psd15depthfp16",
+      "sorted": "1111156cddeffhlnooppprsttv"
+    },
+    {
+      "file": "control_v11p_sd15s2_lineart_anime_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15s2_lineart_anime_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15s2_lineart_anime_fp16",
+      "normalized": "controlv11psd15s2lineartanimefp16",
+      "sorted": "1111256aacdeefiillmnnnoopprrssttv"
+    },
+    {
+      "file": "control_v11p_sd15_canny_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_canny_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_canny_fp16",
+      "normalized": "controlv11psd15cannyfp16",
+      "sorted": "111156accdflnnnoopprstvy"
+    },
+    {
+      "file": "control_v11p_sd15_inpaint_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_inpaint_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_inpaint_fp16",
+      "normalized": "controlv11psd15inpaintfp16",
+      "sorted": "111156acdfiilnnnooppprsttv"
+    },
+    {
+      "file": "control_v11p_sd15_lineart_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_lineart_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_lineart_fp16",
+      "normalized": "controlv11psd15lineartfp16",
+      "sorted": "111156acdefillnnoopprrsttv"
+    },
+    {
+      "file": "control_v11p_sd15_mlsd_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_mlsd_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_mlsd_fp16",
+      "normalized": "controlv11psd15mlsdfp16",
+      "sorted": "111156cddfllmnoopprsstv"
+    },
+    {
+      "file": "control_v11p_sd15_normalbae_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_normalbae_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_normalbae_fp16",
+      "normalized": "controlv11psd15normalbaefp16",
+      "sorted": "111156aabcdefllmnnooopprrstv"
+    },
+    {
+      "file": "control_v11p_sd15_openpose_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_openpose_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_openpose_fp16",
+      "normalized": "controlv11psd15openposefp16",
+      "sorted": "111156cdeeflnnoooopppprsstv"
+    },
+    {
+      "file": "control_v11p_sd15_scribble_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_scribble_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_scribble_fp16",
+      "normalized": "controlv11psd15scribblefp16",
+      "sorted": "111156bbccdefillnoopprrsstv"
+    },
+    {
+      "file": "control_v11p_sd15_seg_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_seg_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_seg_fp16",
+      "normalized": "controlv11psd15segfp16",
+      "sorted": "111156cdefglnoopprsstv"
+    },
+    {
+      "file": "control_v11p_sd15_softedge_fp16.safetensors",
+      "relativePath": "controlnet/control_v11p_sd15_softedge_fp16.safetensors",
+      "kind": "generic",
+      "basename": "control_v11p_sd15_softedge_fp16",
+      "normalized": "controlv11psd15softedgefp16",
+      "sorted": "111156cddeeffglnooopprssttv"
+    }
+  ]
+}
